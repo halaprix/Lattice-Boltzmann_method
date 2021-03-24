@@ -7,4 +7,3 @@ created by: Nicole Neumann and Kent Ridl
 
 Poiseuille flow using Lattice-Boltzmann-BGK(SRT) with mid-grid bounce back in 2-D with the 9 velocity scheme made infinitly long(periodicity)
 
-#### single-component multiphase LBM coming soon
